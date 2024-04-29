@@ -1,0 +1,4 @@
+type: sedan, univer
+color: red, black, white
+day: 1, 15, 30
+sale: 0, 20, 30
